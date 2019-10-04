@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Relocation Moving Truck Rental</string>
+    <string name="openButton">Lets Get Moving!</string>
+    <string name="truckSize">Size of truck (10,17,26 ft)</string>
+    <string name="miles">miles to travel</string>
+    <string name="title">Awesome \nMoving Co.</string>
+    <string name="calculate">Calculate Cost</string>
+    <string name="finalTitle">Truck Rental Total</string>
+    <string name="totalCost">For your move, here is the cost</string>
+</resources>
